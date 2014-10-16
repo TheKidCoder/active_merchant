@@ -217,6 +217,11 @@ firstdata_e4:
   login:
   password:
 
+# Working credentials, no need to replace
+forte:
+  some_credential: SOMECREDENTIAL
+  another_credential: ANOTHERCREDENTIAL
+
 garanti:
   login: "PROVAUT"
   terminal_id: 111995
